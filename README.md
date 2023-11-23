@@ -21,10 +21,6 @@
 </thead>
 <tbody>
 <tr>
-<td>Contract Testing</td>
-<td>PactFlow, Pact (pact.io), OpenAPI / OAS (Swagger)</td>
-</tr>
-<tr>
 <td>Mobile Automation</td>
 <td>XCUITest, Espresso, Appium</td>
 </tr>
@@ -86,7 +82,7 @@
 </tr>
 <tr>
 <td>Dev Tools</td>
-<td>ReactJS, Redux</td>
+<td>ReactJS</td>
 </tr>
 </tbody>
 </table>
