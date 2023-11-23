@@ -90,8 +90,8 @@
 </tr>
 </tbody>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navnathjagtap2311&show_icons=true&locale=en&layout=compact" alt="navnathjagtap2311" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navnathjagtap23&show_icons=true&locale=en&layout=compact" alt="navnathjagtap23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navnathjagtap2311&show_icons=true&locale=en" alt="navnathjagtap2311" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navnathjagtap23&show_icons=true&locale=en" alt="navnathjagtap23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navnathjagtap2311&" alt="navnathjagtap2311" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navnathjagtap23&" alt="navnathjagtap23" /></p>
