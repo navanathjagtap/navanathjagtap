@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Navnath</h1>
 <h3 align="center">A am full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navnathjagtap2311&label=Profile%20views&color=0e75b6&style=flat" alt="navnathjagtap2311" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navnathjagtap23&label=Profile%20views&color=0e75b6&style=flat" alt="navnathjagtap23" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
