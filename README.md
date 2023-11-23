@@ -30,35 +30,35 @@
 </tr>
 <tr>
 <td>Front-End Automation</td>
-<td>Selenium WebDriver, Cypress, Protractor, Capybara, CasperJS</td>
+<td>Selenium WebDriver, Cypress,Appium</td>
 </tr>
 <tr>
 <td>API Automation</td>
-<td>REST-Assured, Postman, Ruby (Client-API), Javascript (Supertest / Frisby), Insomania</td>
+<td>REST-Assured, Postman, Javascript </td>
 </tr>
 <tr>
 <td>Script</td>
-<td>Kotlin, Swift, Python, Ruby, JavaScript, TypeScript, Java, Shell (bash), Groovy, Linux cmds</td>
+<td>Python, JavaScript, TypeScript, Java, Shell (bash), Linux cmds</td>
 </tr>
 <tr>
 <td>BDD Framework</td>
-<td>Cucumber (Ruby), Behave, JBehave, Cucumber-js</td>
+<td>Cucumbe, Behave, Cucumber-js</td>
 </tr>
 <tr>
 <td>CI/CD</td>
-<td>Fastlane, Jenkins, Docker, Kubernetes, Helm, AWS, Jenkins job-dsl, Bitrise, Terraform, Zalenium, Codeship, Travis CI</td>
+<td>Fastlane, Jenkins, Docker, Kubernetes,Builkd kite</td>
 </tr>
 <tr>
 <td>Database</td>
-<td>MySql, Firebase, MongoDB, ElasticSearch, InfluxDB</td>
+<td>MySql, MongoDB, postgresql</td>
 </tr>
 <tr>
 <td>Monitoring</td>
-<td>Grafana, DataDog, Kibana, Prometheus, Graphite</td>
+<td>Grafana, DataDog</td>
 </tr>
 <tr>
 <td>Unit Test Framework</td>
-<td>JUnit5, Pytest, TestNG, Jasmine, RSpec</td>
+<td>JUnit, Pytest, TestNG</td>
 </tr>
 <tr>
 <td>A/B Testing</td>
@@ -74,19 +74,19 @@
 </tr>
 <tr>
 <td>IDE</td>
-<td>PyCharm, IntelliJ IDEA Ultimate, VS Code, RubyMine, Eclipse, Sublime Text 3, Atom</td>
+<td>PyCharm, IntelliJ IDEA Ultimate, VS Code, RubyMine, Eclipse, Sublime Text 3</td>
 </tr>
 <tr>
 <td>Defect Tracking and Project Management Tool</td>
-<td>JIRA, Redmine, Mantis, Agilefant, TRAC</td>
+<td>JIRA,Bugzilla</td>
 </tr>
 <tr>
 <td>Test Management Tool</td>
-<td>TestRail, XRay, TestLink, TestRun</td>
+<td>TestRail, TestRun</td>
 </tr>
 <tr>
 <td>Dev Tools</td>
-<td>Spring Boot, ReactJS, Redux, Firebase</td>
+<td>ReactJS, Redux</td>
 </tr>
 </tbody>
 </table>
