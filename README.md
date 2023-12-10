@@ -5,6 +5,7 @@ I'm [Navnath!](https://navnathjagtap23.github.io)👋
 - 👀 I’m interested in test automation, whether it is web, mobile or APIs.
 - 🔭 I’m currently working on Selenium cucumber framework
 - 💬 Ask me about Java, Selenium, Appium, Cucumber, Rest-Assured API testing.
+
 - 📫 Connect with me @ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navnathjagtap) 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navnathjagtap23&label=Profile%20views&color=0e75b6&style=flat" alt="navnathjagtap23" /> </p>
