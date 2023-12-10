@@ -6,17 +6,15 @@ I'm [Navnath!](https://navnathjagtap23.github.io)👋
 - 🔭 I’m currently working on Selenium cucumber framework
 - 💬 Ask me about Java, Selenium, Appium, Cucumber, Rest-Assured API testing.
 
-- 📫 Connect with me @ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navnathjagtap) 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navnathjagtap23&label=Profile%20views&color=0e75b6&style=flat" alt="navnathjagtap23" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navnathjagtap) </h3>
 <p align="left">
 </p>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding" />
 <h3 align="left">Languages and Tools:</h3>
 <div>
-    <span><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;</span>span>
+    <span><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;</span>
  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="35" height="35"/>&nbsp;</span>
   <span><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="35" height="35"/>&nbsp;</span><span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="35" height="35"/>&nbsp;</span><span>
@@ -92,6 +90,7 @@ I'm [Navnath!](https://navnathjagtap23.github.io)👋
 <tr>
 <td>Unit Test Framework</td>
 <td>JUnit, Pytest, TestNG</td>
+</tr><tr>
 <td>Version Control</td>
 <td>GIT, SVN [GitHub, Gitlab, Stash and BitBucket]</td>
 </tr>
